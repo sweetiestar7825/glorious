@@ -1,0 +1,2 @@
+# glorious
+My first repository
